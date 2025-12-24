@@ -1,7 +1,7 @@
 # Retail Customer Analytics Project
 
 ## 🧠 Project Overview
-This project analyzes retail customer behavior using Python, SQL, and Power BI — covering the full analytics lifecycle.
+This project analyzes retail customer behavior using Python, PostgreSQL, and Power BI — covering the full analytics lifecycle.
 
 ## 📂 Contents
 - **Data cleaning & EDA** (Python)
